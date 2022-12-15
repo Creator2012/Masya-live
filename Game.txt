@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 print("привет мир")
 :)_____
-=======
-print("привет мир")
->>>>>>> parent of ac86fd1 (Update Game.txt)
